@@ -1,0 +1,21 @@
+.btn{
+    margin-right: 10px;
+}
+th{
+    width:5%;
+}
+.add-button-assets {
+    float: right;
+}
+
+.workorder-group .form-control{
+    display: inline-block;
+    width:20%;
+    margin: 10px;
+}
+.btn{
+    margin:10px;
+}
+.workorder-button{
+    float: right;
+}

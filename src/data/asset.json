@@ -1,0 +1,50 @@
+[
+{
+"serialno": 1,
+"asset_id": "AS001",
+"kks_id": "KK001",
+"desc":"first asset id "
+},
+{
+"serialno": 2,
+"asset_id": "AS002",
+"kks_id": "KK002",
+"desc":"second asset id "
+},
+{
+"serialno": 3,
+"asset_id": "AS003",
+"kks_id": "KK003",
+"desc":"third asset id "
+},
+{
+"serialno": 4,
+"asset_id": "AS004",
+"kks_id": "KK004",
+"desc":"fourth asset id "
+},
+{
+"serialno": 5,
+"asset_id": "AS005",
+"kks_id": "KK005",
+"desc":"fifth asset id "
+},
+{
+"serialno": 6,
+"asset_id": "AS006",
+"kks_id": "KK006",
+"desc":"sixth asset id "
+},
+{
+"serialno": 7,
+"asset_id": "AS007",
+"kks_id": "KK007",
+"desc":"seventh asset id "
+},
+{
+"serialno": 8,
+"asset_id": "AS008",
+"kks_id": "KK008",
+"desc":"eighth asset id "
+}
+]
